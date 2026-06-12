@@ -13,4 +13,4 @@ def test_add():
   assert add(8, 3, 4) == 15
   assert add(5, 4, 4) == 13
   assert add(5, 4, 11) == -1
-  assert add(5, -, +) == -1
+  assert add(5, 10, -1) == -1
